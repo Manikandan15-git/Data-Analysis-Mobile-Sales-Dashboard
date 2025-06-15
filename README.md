@@ -28,6 +28,6 @@ I have developed the project dashboard, and creating multiple dashboard and tabl
  <img width="652" alt="Mobile dashboar New pic" src="https://github.com/user-attachments/assets/1748017a-4ffd-4954-a74a-150ef64c6e4c" />
 
 # Conclusion
-    -  Here I have reated the Dashboard and reports for Mobile sales which is under each and every mobile model and used the Dax formula for Calculating for Count of the mobiles.
+    -  Here I have created the Dashboard and reports for Mobile sales which is under each and every mobile model and used the Dax formula for Calculating for Count of the mobiles.
     -  Total sales of mobiles and average sales of mobile, For the data set I created the Excel to data cleaning, data transform. 
     -  calculated with the referance of month and provided the payment option for mobile sales using slicer and filter in Power BI.
