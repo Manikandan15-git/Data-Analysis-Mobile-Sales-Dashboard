@@ -11,11 +11,18 @@ I have developed the project dashboard, and creating multiple dashboard and tabl
 - calculated for each month of mobile sales
 - created the Pie charts, table configuration, Filled Map, Stacked area chart
 
+# Project Insights
+
+- Compared to all mobile model Oppo is more sales and extra months(4 month continues sales)
+- Phone-pay method is more sales than all the payment method(75%)
+- Real mi is the most revenue of the all month(2 lakh sales)
+
+
 ## Process
-1.Verify the any missing data and anamolies, sort out the same
-2.Make sure data is consistent and clean the data with respect of data type.
-3.Create the slicer, Filter and to use the DAX formula to calculate the Total average etc.
-4.Merge all the step to create the stunning dashboard for business use.
+* Verify the any missing data and anamolies, sort out the same
+* Make sure data is consistent and clean the data with respect of data type.
+* Create the slicer, Filter and to use the DAX formula to calculate the Total average etc.
+* Merge all the step to create the stunning dashboard for business use.
 
 # Dashboard
  <img width="652" alt="Mobile dashboar New pic" src="https://github.com/user-attachments/assets/1748017a-4ffd-4954-a74a-150ef64c6e4c" />
