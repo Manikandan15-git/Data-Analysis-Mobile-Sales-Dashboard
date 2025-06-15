@@ -2,3 +2,11 @@
 I have developed the project dashboard, and creating multiple dashboard and tables to analyze the data. The process involved several stages including Data Preprocessing, Data Cleaning, Data Visualization
 # Data used
 <a href ="https://github.com/Manikandan15-git/Data-Analysis-Mobile-Sales-Dashboard/blob/main/Mobile%20Sales.xlsx">Data set</a>
+
+## Process
+1.Verify the any missing data and anamolies, sort out the same
+2.Make sure data is consistent and clean the data with respect of data type.
+3.Create the slicer, Filter and to use the DAX formula to calculate the Total average etc.
+4.Merge all the step to create the stunning dashboard for business use.
+
+# Dashboard
