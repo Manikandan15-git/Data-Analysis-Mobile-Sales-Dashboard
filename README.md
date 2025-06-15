@@ -3,7 +3,7 @@ I have developed the project dashboard, and creating multiple dashboard and tabl
 # Data used
 <a href ="https://github.com/Manikandan15-git/Data-Analysis-Mobile-Sales-Dashboard/blob/main/Mobile%20Sales.xlsx">Data set</a>
 
-# KPIs
+# KPIs Used
 - calculated the Total Quantity of mobile sales
 - Provided the Average sales of mobile
 - calculated the total sales o mobile
